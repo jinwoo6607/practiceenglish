@@ -13,7 +13,7 @@
 
 [04_Computer Network.pdf](https://github.com/user-attachments/files/19358971/04_Computer.Network.pdf)
 
-### => 3주차 자기소개 PPT과제
+## => 3주차 자기소개 PPT과제
 
 
 ### => 4주차
